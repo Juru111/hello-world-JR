@@ -1,2 +1,2 @@
 # hello-world-JR
-ucze sie robic repo
+repo creation test
